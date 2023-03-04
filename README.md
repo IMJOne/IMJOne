@@ -1,15 +1,15 @@
 ### 💗 Welcome to JOne's world !
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://jone-vscode-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-quare&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:mompapa7@gmail.com"><img src="https://img.shields.io/badge/mompapa7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/imjone/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://bit.ly/notion-jone"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 <p>
-  👋 Hi there! I'm <b>Front-end devloper</b> skilled in WEB. 🚀<br/>
-  At present, doing developing with React, and interested in TypeScript and Node.js.<br/>
-  Finally, I want to be a cool full-stack developer. (Please watch me 💖)<br/><br/>
+  👋 Hi there! I'm <b>Front-end devloper</b> skilled in WEB. 🚀<br />
+  At present, doing developing with React, and interested in TypeScript and Node.js.<br />
+  Finally, I want to be a cool full-stack developer. (Please watch me 💖)<br /><br />
   I enjoy coding every day.<br/>
   I hope to develop every beautiful things! ✨<br/>
 </p>
